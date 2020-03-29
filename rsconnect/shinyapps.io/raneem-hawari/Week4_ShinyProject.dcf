@@ -1,0 +1,12 @@
+name: Week4_ShinyProject
+title: Week4_ShinyProject
+username:
+account: raneem-hawari
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2014425
+bundleId: 2938178
+url: https://raneem-hawari.shinyapps.io/Week4_ShinyProject/
+when: 1585451618.08166
+asMultiple: FALSE
+asStatic: FALSE
